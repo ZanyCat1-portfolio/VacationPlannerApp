@@ -1,4 +1,4 @@
-Instructions for Android:\
+Instructions for Android:
 1. Download the .apk file
 2. Open Files app
 3. Navigate to Downloads
