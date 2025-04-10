@@ -6,12 +6,12 @@ Instructions for Android:\
 5. Click 'continue', and again to install the app
 6. Google Play Protect will offer to scan the app, or you can click 'More Details' and select to install without scanning
 
-There is a test user loaded with data for demonstrative purposes. Enter the following credentials to access the test user:
-Username: Test User
-Password: testdata
+There is a test user loaded with data for demonstrative purposes. Enter the following credentials to access the test user:\
+Username: **Test User**\
+Password: **testdata**
 
 *** 
-This school project was meant to build an Android app using Java. Highlights:
+This school project was to build an Android app using Java. Highlights:
 * Onboard SQLite database
 * Unique records for each user
 * Vacation and Excursion reminders can be set and updated
